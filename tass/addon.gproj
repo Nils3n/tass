@@ -1,0 +1,8 @@
+GameProject {
+ ID "tass"
+ GUID "64611558BD1ACA61"
+ TITLE "tass"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}

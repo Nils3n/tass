@@ -14,6 +14,7 @@ GenericWorldEntity world {
  LensFlaresConfig "{92489E4CCCB3D82F}Configs/LensFlares/LensFlares.conf"
 }
 GenericTerrainEntity Terrain {
+ Layers 128
 }
 GenericWorldPPEffect : "{3AFFB0B0EC055284}Prefabs/World/DefaultWorld/GenericWorldPP_Default.et" {
  coords 2.039 2.885 3.021
